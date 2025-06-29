@@ -1,5 +1,3 @@
-# Currency_Detection_Project
-Currency Detection using Color Sensor by taking RGB values of currency.
 # Currency Detection for Visually Impaired
 
 A hardware project using TCS3200 color sensor and DFPlayer Mini for currency detection.
