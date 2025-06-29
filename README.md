@@ -2,13 +2,6 @@
 
 A hardware project using TCS3200 color sensor and DFPlayer Mini for currency detection.
 
-## 📑 Components Used
-- Arduino UNO
-- TCS3200 Color Sensor
-- DFPlayer Mini MP3 Module
-- Speaker
-- Breadboard & Wire# 💵 Currency Detection for Visually Impaired
-
 This is a hardware project designed to help visually impaired individuals identify Indian currency notes by detecting their color combination and announcing the denomination through an audio output.
 
 The system uses a **TCS3200 Color Sensor** to read the color values of currency notes and a **DFPlayer Mini MP3 Player Module** to play pre-recorded audio files corresponding to each currency value. The project is built on an **Arduino Uno** microcontroller.
