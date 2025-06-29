@@ -97,7 +97,7 @@ For any queries or collaborations:
 
 **Anand Mohokar**  
 Email: anandmohokar09@gmail.com  
-GitHub: [github.com/yourusername](https://github.com/yourusername)
+GitHub: [github.com/yourusername](https://github.com/AnandMohokar09)
 
 
 
